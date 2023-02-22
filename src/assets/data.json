@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "name": "NASA discord bot",
+        "url": "https://github.com/byt3h3ad/nasa-djsbot",
+        "description": "Learnt Javascript by making a Discord bot that brings you latest NASA imagery directly to your server."
+    },
+    {
+        "id": "1",
+        "name": "Tecnoesis '22 website",
+        "url": "https://github.com/NIT-Silchar-Org/tecno-website",
+        "description": "Learnt NextJS and team work on prod."
+    },
+    {
+        "id": "2",
+        "name": "Incandescence '23 website",
+        "url": "https://github.com/NIT-Silchar-Org/incand-website",
+        "description": "."
+    },
+    {
+        "id": "3",
+        "name": "Guidance Grid Frontend",
+        "url": "https://github.com/gdsc-nits-org/guidance-grid-client",
+        "description": "Guidance Grid is a project under GDSC NIT Silchar that aims at helping you to seek assistance and guidance from your peers and seniors. It allows you to upvote, downvote, and bookmark the content of your choice and comes with a trending article section displaying posts based on public reception. Uses ReactJS, sass."
+    },
+    {
+        "id": "4",
+        "name": "Guidance Grid Backend",
+        "url": "https://github.com/gdsc-nits-org/guidance-grid-api",
+        "description": "Backend for Guidance Grid using Prisma, Express, MongoDB, PassportJS."
+    },
+    {
+        "id": "5",
+        "name": "EduCrush",
+        "url": "https://github.com/TheElderDev/EduCrush",
+        "description": "[wip] Google Solution Challenge 2023."
+    },
+    {
+        "id": "6",
+        "name": "codekon",
+        "url": "https://github.com/gdsc-nits-org/codekon",
+        "description": "[wip] scaffolding tool for GDSC NITS project templates."
+    }
+]
